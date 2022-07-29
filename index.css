@@ -1,0 +1,40 @@
+.headers{
+    display: flex;
+    justify-content: center;
+    color: brown;
+}
+
+.first{
+    color: goldenrod;
+    background-color: black;
+}
+
+.first-paragraph{
+    display: flex;
+    justify-content: center;
+}
+
+.headers, .first-paragraph{
+    margin: 35px;
+}
+
+.header{
+    background-color: black;
+    color: gold;
+}
+
+
+
+.link{
+    background-color: goldenrod;
+    
+}
+
+.insta, .face, .twit{
+    display: flex;
+    justify-content: center;
+}
+
+.link, .tech-paragraph{
+    margin: 30px;
+}
